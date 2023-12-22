@@ -1,0 +1,36 @@
+.btn-delete{
+    background-color: rgb(255, 98, 98);
+    border: none;
+    width: 60px;
+    height: 30px;
+    border-radius: 7px;
+    color: black;
+}
+.btn-delete:hover{
+    background-color: rgb(231, 39, 39);
+    color: white;
+}
+
+.btn-delete:active{
+    background-color: rgb(255, 98, 98);
+    color: black;
+}
+
+.btn-update{
+    background-color: rgb(20, 223, 20);
+    border: none;
+    width: 60px;
+    height: 30px;
+    border-radius: 7px;
+    color: black;
+}
+
+.btn-update:hover{
+    background-color: rgb(5, 159, 5);
+    color: white;
+}
+
+.btn-update:active{
+    background-color: rgb(20, 223, 20);
+    color: black;
+}

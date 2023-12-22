@@ -1,0 +1,37 @@
+[
+    {
+        "rollno": 1,
+        "name": "Pranav",
+        "numberOfAttempts": 2,
+        "percentage": 92.3,
+        "subjectsLearning": ["Java", "React"]
+    },
+    {
+        "rollno": 2,
+        "name": "Prajwal",
+        "numberOfAttempts": 2,
+        "percentage": 82.7,
+        "subjectsLearning": ["Spring", "React"]
+    },
+    {
+        "rollno": 3,
+        "name": "Sanket",
+        "numberOfAttempts": 1,
+        "percentage": 91.9,
+        "subjectsLearning": ["PHP", "React"]
+    },
+    {
+        "rollno": 4,
+        "name": "Navin",
+        "numberOfAttempts": 3,
+        "percentage": 85.3,
+        "subjectsLearning": ["Vue", "Spring"]
+    },
+    {
+        "rollno": 5,
+        "name": "Jayes",
+        "numberOfAttempts": 4,
+        "percentage": 44.3,
+        "subjectsLearning": ["Java", "Python"]
+    }
+]

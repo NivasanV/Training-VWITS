@@ -1,0 +1,18 @@
+{
+  "name": "3_passport",
+  "version": "1.0.0",
+  "description": "-------- PassportJs -------\r     - Authentication middleware for NodeJS\r     - Suppose different statergies such as OpenID, OAuth, JWT\r     - This can also be used for authenticating using google, facebook etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "passport": "^0.5.3",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}

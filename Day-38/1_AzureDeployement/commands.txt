@@ -1,0 +1,12 @@
+
+to connect ssh
+$ ssh -i nameOfThePemfile.pem user_name@Public_IP
+
+to download file
+$ wget fileLink
+
+to extract the tar.gz
+$ tar xvzf nameOfthefile.tar.gz
+
+to set path
+$ export PATH=nameOfTheDirectory/bin:$path$:

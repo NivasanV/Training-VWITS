@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Training\Day-28_29_30\10_SMS_APP_FullStack_Deployment\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2475733056.index
+1358374168.index
+2463078647.index
+1010772976.index
+3857615579.index
+2413375587.index

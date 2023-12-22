@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+	<bean class="in.co.vwits.sms.service.impl.StudentServiceImpl">
+		<!-- Following tag is used for Costructor Injection -->
+		<!-- <constructor-arg ref="studentDao"></constructor-arg> -->
+		
+		<!-- Following property is used for Setter Injection-->
+		<property name="dao" ref="studentDao"></property>
+	</bean>
+	<bean id="studentDao" class="in.co.vwits.sms.dao.impl.StudentJpaDaoImpl"></bean>
+</beans>

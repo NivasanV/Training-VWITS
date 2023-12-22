@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sms-react-app/static/css/main.f2d72639.css",
+    "main.js": "/sms-react-app/static/js/main.ec026e12.js",
+    "static/js/787.2b7ad244.chunk.js": "/sms-react-app/static/js/787.2b7ad244.chunk.js",
+    "index.html": "/sms-react-app/index.html",
+    "main.f2d72639.css.map": "/sms-react-app/static/css/main.f2d72639.css.map",
+    "main.ec026e12.js.map": "/sms-react-app/static/js/main.ec026e12.js.map",
+    "787.2b7ad244.chunk.js.map": "/sms-react-app/static/js/787.2b7ad244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d72639.css",
+    "static/js/main.ec026e12.js"
+  ]
+}

@@ -1,0 +1,12 @@
+version: "3"
+services:
+ reactapp:
+  container_name: frontend
+  build: ./hello-world-app
+  ports:
+   - 3000:3000
+ springboot:
+  container_name: backend
+  build: ./HelloWorldAPI
+  ports:
+   - 8080:8080

@@ -1,0 +1,28 @@
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.btn-delete{
+    background-color: red;
+}
+
+.success{
+    color: green;
+    background-color: yellow;
+}
+
+.error{
+    color: red;
+    background-color: yellow;
+}

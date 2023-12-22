@@ -1,0 +1,11 @@
+{
+  "name": "2_builtinmodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

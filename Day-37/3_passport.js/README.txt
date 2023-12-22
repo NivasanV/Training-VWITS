@@ -1,0 +1,4 @@
+-------- PassportJs -------
+    - Authentication middleware for NodeJS
+    - Suppose different statergies such as OpenID, OAuth, JWT
+    - This can also be used for authenticating using google, facebook etc..

@@ -1,0 +1,34 @@
+.success{
+    color: green;
+}
+
+.fail{
+    color: red;
+}
+
+.login-form{
+    background-color:  #a9d1fd;
+    margin: auto 35%;
+    height: 370px;
+    border: none;
+    border-radius: 20px;
+}
+
+.login-form input{
+    margin-top: 15%;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+}
+
+.login-form .btn-login{
+    width: 100px;
+    padding: 10px;
+    background-color: #2a6bb1;
+    color: white;
+}
+.login-form .btn-login:hover{
+    background-color: white;
+    color: #2a6bb1;
+    font-weight: bolder;
+}

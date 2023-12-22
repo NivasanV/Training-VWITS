@@ -1,0 +1,25 @@
+modify student management app in such way that:
+1. create a new component sort criteria which renders radio button 
+and help user to sort students based on either of the criteria
+	1. percentage scored
+	2. no of attempts
+	3. no of subject learning
+
+
+------------------------------------------------------------------------
+modify sms app in such a way that create ane more component
+name of the component
+	i.Studenr update : this component render student details which user has selected by clicking on updates button
+----------------------------------------------------------------------------
+modify sms app in such a way that create ane more component
+	ii. Login : which renders login form to the user
+
+-----------------------------------------------------------------------
+
+modify sms app in such a way that create ane more component
+	iii. Register : which renders register form to the user
+		in the similar fashion
+	iv. AboutUs
+	v. Home
+	vi. ContactUs
+	Menu:It should show all the menu of(Navbar)
